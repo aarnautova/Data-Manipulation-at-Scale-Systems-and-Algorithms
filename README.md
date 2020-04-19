@@ -2,4 +2,4 @@
 
 <h2>Арнаутова Г.С. КП-72, ФПМ</h2>
 
-(screenshots\Certificate.png)
+![](Certificate.png)
